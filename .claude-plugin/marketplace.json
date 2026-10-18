@@ -1,0 +1,11 @@
+{
+  "name": "mes-competences",
+  "owner": { "name": "fabino66" },
+  "plugins": [
+    {
+      "name": "ponytail",
+      "description": "Solution la plus simple qui marche (YAGNI, bibliothèque standard d'abord).",
+      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
+    }
+  ]
+}
